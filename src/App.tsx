@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <div className="bg-blue-900 rounded-lg p-2">Hi tailwind</div>
       </header>
     </div>
   );
